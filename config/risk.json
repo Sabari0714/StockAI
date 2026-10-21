@@ -1,0 +1,8 @@
+{
+  "prediction_horizon_days": 5,
+  "minimum_up_probability": 0.65,
+  "maximum_single_position_risk_pct": 1.0,
+  "paper_trading_only": true,
+  "automatic_order_execution": false,
+  "signal_requires_backtest_validation": true
+}
